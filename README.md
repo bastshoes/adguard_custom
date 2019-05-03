@@ -90,8 +90,6 @@ monitored_conditions:
       description: Percentage of blocked ads during 24h.
     queries:
       description: Total number of DNS queries handled by Adguard Home during 24h.
-    version:
-      description: Version of Adguard Home.
 ```
 
 This platform was not made by ADGUARD SOFTWARE LIMITED or the ADGUARD community. They did not provide support, feedback, testing, or any other help during its creation. This is a third party platform which may break if ADGUARD changes their API in a later release. It is not official, not developed, not supported, and not endorsed ADGUARD SOFTWARE LIMITED or the ADGUARD community. The trademark `ADGUARD` and the logo is used here to describe the platform. `ADGUARD` is a registered trademark of ADGUARD SOFTWARE LIMITED.
