@@ -5,12 +5,12 @@ Component work with Home-assistant startinf 0.92 or later.
 
 # Installation
 
-#Step 1
+##Step 1
 
 Create a directory called `adguard` in the `<config directory>/custom_components/` directory on your Home Assistant instance.
 Install this component by copying the files in [`/custom_components/adguard/`] from this repo into the new `<config directory>/custom_components/adguard/` directory you just created.
 
-#Step 2
+##Step 2
 
 Add this to your `configuration.yaml`
 
