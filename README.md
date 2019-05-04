@@ -5,12 +5,12 @@ Component work with Home-assistant startinf 0.92 or later.
 
 # Installation
 
-#Step 1
+# Step 1
 
 Create a directory called `adguard` in the `<config directory>/custom_components/` directory on your Home Assistant instance.
 Install this component by copying the files in [`/custom_components/adguard/`] from this repo into the new `<config directory>/custom_components/adguard/` directory you just created.
 
-#Step 2
+# Step 2
 
 Add this to your `configuration.yaml`
 
@@ -90,13 +90,11 @@ monitored_conditions:
       description: Percentage of blocked ads during 24h.
     queries:
       description: Total number of DNS queries handled by Adguard Home during 24h.
-    version:
-      description: Version of Adguard Home.
 ```
 
 This platform was not made by ADGUARD SOFTWARE LIMITED or the ADGUARD community. They did not provide support, feedback, testing, or any other help during its creation. This is a third party platform which may break if ADGUARD changes their API in a later release. It is not official, not developed, not supported, and not endorsed ADGUARD SOFTWARE LIMITED or the ADGUARD community. The trademark `ADGUARD` and the logo is used here to describe the platform. `ADGUARD` is a registered trademark of ADGUARD SOFTWARE LIMITED.
 
-#Credits
+# Credits
 
 - [ludeeus](https://github.com/ludeeus) for the library
 
