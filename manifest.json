@@ -1,7 +1,7 @@
 {
     "domain": "adguard",
     "name": "Adgurad Home",
-    "documentation": "https://github.com/bastshoes",
+    "documentation": "https://github.com/bastshoes/adguard_custom/blob/master/README.md",
     "requirements": [
       "adguard"
     ],
